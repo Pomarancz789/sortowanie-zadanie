@@ -1,14 +1,12 @@
-//
-//  main.cpp
-//  sortowanie-zadanie
-//
-//  Created by Kuba Wtorkiewicz on 11/01/2022.
-//
-
 #include <iostream>
+#include <cmath>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+int main()
+{
+    
+    
+    
     return 0;
 }
